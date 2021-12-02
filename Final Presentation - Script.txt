@@ -1,0 +1,36 @@
+
+=============================================================================================
+
+with the 1st prototype done, went back to our users to test it out
+
+did a walkthrough via mural board/proto.io with our respective users, and talk down their feedbacks
+
+we compile all the feedback received, group them accordingly to their category
+
+in summary received a mixture of priase, together with questions and critics
+for the praises, they generally like the direction we are heading into of using AI tech to simplify the shopping process
+for the critics, it is mainly on the design flow and content
+	on dessign flow they are poor/confusing work flow from one screen to another, missing button to perform certain steps
+	on content we have some wrong information on the sizing, wrong choice of words like bra instread chest, and lack of clear instructions to perform some of the functions
+	
+As a team, we went throught each and single one
+those in red are the ones we ack, and we make the necessary changes in our 2nd prototype
+the others (besides the green), becasue of time or low importance, we have decided to put them aside for future referrence
+
+learning points: it takes a diff pair of eye from a diff angle to see the problems, beacause us as the creater will tend to have a bias on the stuff we created
+
+now i will hand over to jasima to present to u the our 2nd & improved prototype
+
+
+=============================================================================================
+
+To complete any shopping process, user need buy and make payment. So we included the important step as the final task. 
+
+Unlike the previous 3 task where we have added our own inputs/ideas, this is your typical checkout process that u can find on all sites.
+Hence I will not go through the details, and will only touch on the changes made after the user feedback.
+
+...
+
+With this, We have completed our presentation for team 3. Any questions from Lyn, Grace or Surfan 
+
+
